@@ -1,4 +1,4 @@
-type INVESTMENT = {
+export type INVESTMENT = {
   /** 投資名 */
   name: string;
   /** 投資額/月 */

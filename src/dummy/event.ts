@@ -1,4 +1,4 @@
-type EVENT = {
+export type EVENT = {
   /** イベント名 */
   name: string;
   /** イベントが発生する（した）歳 */
