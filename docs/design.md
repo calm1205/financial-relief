@@ -57,9 +57,9 @@
 
 | name   | type   |
 | ------ | ------ |
+| 名前   | string |
 | 積立額 | number |
 | 年利   | number |
-| 貯金   | number |
 
 **イベント**
 
